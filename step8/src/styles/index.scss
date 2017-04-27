@@ -1,0 +1,13 @@
+@import "~normalize.css";
+
+p {
+  color: green;
+}
+
+.webpack-logo {
+  width: 300px;
+  height: 200px;
+  background: url(../assets/images/webpack.png) no-repeat;
+  background-size: contain;
+  transform: translateX(50%);
+}
